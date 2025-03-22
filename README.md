@@ -149,7 +149,7 @@ header {
 
 
 
- 4. **JavaScript: Interactivity (`script.js`)
+ 4. JavaScript: Interactivity (`script.js`)
 
 // Example: Dynamic Greeting Based on Time
 document.addEventListener("DOMContentLoaded", function() {
